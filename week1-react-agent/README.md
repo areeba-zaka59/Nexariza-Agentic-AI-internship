@@ -11,36 +11,39 @@ A web-search-powered reasoning agent built with LangGraph's ReAct pattern. Given
   - Custom warm-toned theme with an animated mascot that reacts while the agent is thinking
 
 ## Files
-- app.py — Streamlit demo UI (main deliverable to run)
-- week1_first_agent.py — plain terminal version of the same agent
-- requirements.txt — Python dependencies
+- `app.py` — Streamlit demo UI (main deliverable to run)
+- `week1_first_agent.py` — plain terminal version of the same agent
+- `requirements.txt` — Python dependencies
 
 ## Setup
 
 1. Create a virtual environment and activate it:
-
 python -m venv venv
 venv\Scripts\activate
+
 
 2. Install dependencies:
 
 pip install -r requirements.txt
 
-3. Create a .env file in this folder with your API keys:
+
+3. Create a `.env` file in this folder with your API keys:
 
 GROQ_API_KEY=your_key_here
 TAVILY_API_KEY=your_key_here
 
-Free keys available at console.groq.com and tavily.com.
+   Free keys available at [console.groq.com](https://console.groq.com) and [tavily.com](https://tavily.com).
 
 4. Run the Streamlit app:
 
 streamlit run app.py
 
-Or run the plain terminal version:
+
+   Or run the plain terminal version:
 
 python week1_first_agent.py
 
-## Screenshot
-(add a screenshot here after pushing)
 
+## Screenshot
+
+![ReAct Agent Demo](./screenshot/demo.png)
