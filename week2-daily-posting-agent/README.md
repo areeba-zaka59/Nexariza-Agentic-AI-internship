@@ -66,6 +66,6 @@ Or run the plain terminal version:
 
 python daily_posting_agent.py
 
-## Screenshot
-
-![NEXA Content Engine Demo](./screenshots/demo.png)
+## Screenshots
+![NEXA Content Engine — Research View](./screenshots/demo.png)
+![NEXA Content Engine — Content Output](./screenshots/demo2.png)
