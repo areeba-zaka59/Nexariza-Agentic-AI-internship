@@ -14,7 +14,7 @@ from langchain_community.tools.tavily_search import TavilySearchResults
 
 load_dotenv()
 
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.7)
+llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0.7)
 search_tool = TavilySearchResults(max_results=8)
 
 NEXARIZA_BRAND_CONTEXT = """

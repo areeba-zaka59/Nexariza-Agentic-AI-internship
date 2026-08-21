@@ -267,7 +267,7 @@ if "active_answer" not in st.session_state:
 # ---------- Agent setup ----------
 @st.cache_resource
 def load_agent():
-    llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0)
+    llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0)
     search_tool = TavilySearchResults(max_results=3)
     return create_react_agent(llm, [search_tool])
 
