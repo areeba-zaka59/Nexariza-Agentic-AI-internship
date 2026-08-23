@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# 🤖 Nexariza AI — Agentic AI Internship
+# Nexariza AI - Agentic AI Internship
 
 **6 weeks. 6 real agentic AI systems. Built, shipped, and documented in public.**
 
@@ -14,30 +14,41 @@
 
 ---
 
-### 👋 About
+### About
 
-This repo documents my 6-week **Agentic AI Internship** at [Nexariza AI](https://nexariza.com) — building real, deployable multi-agent and RAG systems each week, from a single ReAct agent up to a full multi-tool AI assistant.
+This repo documents my 6-week **Agentic AI Internship** at [Nexariza AI](https://nexariza.com) - building real, deployable multi-agent and RAG systems each week, from a single ReAct agent up to a full multi-tool AI assistant.
 
-Each week lives in its own folder with its own README, setup instructions, and demo screenshot.
+Each week lives in its own folder with its own README, setup instructions, and demo screenshots.
 
 **Intern:** Areeba Zaka
 
 ---
 
-### 📅 Weekly Progress
+### Weekly Progress
 
 | # | Project | What it does | Status |
 |:-:|---------|---------------|:------:|
-| 1 | [**ReAct Agent**](./week1-react-agent) | Web-search-powered reasoning agent with sourced answers | ✅ |
-| 2 | Daily Content Posting Agent | Auto-generates daily LinkedIn/IG/X content with branding | 🔜 |
-| 3 | [**Nexariza Support Bot**](./week3-rag-support-bot) | RAG chat agent grounded on real company content, with honest escalation | ✅ | 4 | Multi-Agent Research System | Researcher → Analyst → Writer → Publisher pipeline | 🔜 |
-| 5 | Lead Qualification Agent | Finds, scores, and drafts outreach to potential leads | 🔜 |
-| 6 | 🏆 Capstone — AI Assistant | All-in-one research, content, and outreach assistant | 🔜 |
+| 1 | [**ReAct Agent**](./week1-react-agent) | Web-search-powered reasoning agent with sourced answers | Done |
+| 2 | [**NEXA Content Engine**](./week2-daily-posting-agent) | Trending topic research -> branded LinkedIn/IG/X content, with a live research workspace UI | Done |
+| 3 | [**Nexariza Support Bot**](./week3-rag-support-bot) | RAG chat agent grounded on real company content, with honest escalation | Done |
+| 4 | Multi-Agent Research System | Researcher -> Analyst -> Writer -> Publisher pipeline | Coming soon |
+| 5 | Lead Qualification Agent | Finds, scores, and drafts outreach to potential leads | Coming soon |
+| 6 | Capstone - AI Assistant | All-in-one research, content, and outreach assistant | Coming soon |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-`LangChain` · `LangGraph` · `Groq (Llama 3.3 70B)` · `Tavily Search` · `Streamlit` · `Python`
+`LangChain` - `LangGraph` - `Groq (Llama 3.3 70B)` - `Tavily Search` - `ChromaDB` - `Streamlit` - `Python`
 
-### 📁 Structure
+### Structure
+
+Nexariza-Agentic-AI-internship contains: week1-react-agent (Web-search ReAct agent + Streamlit UI), week2-daily-posting-agent (Trending content generator + research workspace UI), week3-rag-support-bot (RAG-powered customer support chatbot), with more weeks added as the internship progresses.
+
+---
+
+<div align="center">
+
+Built as part of the **Nexariza AI Agentic AI Internship** - [nexariza.com](https://nexariza.com)
+
+</div>
