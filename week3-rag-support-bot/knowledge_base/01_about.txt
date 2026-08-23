@@ -1,0 +1,41 @@
+NEXARIZA AI - COMPANY OVERVIEW
+
+Nexariza AI is an artificial intelligence consulting and engineering company founded in 2024 by Ahmad Yasin in Lahore, Pakistan. The company is based in Lahore, Pakistan and serves clients globally as a remote-first team.
+
+MISSION
+Empower businesses via scalable AI and full-stack solutions with transparent pricing.
+
+VISION
+To be a globally trusted partner for production-grade AI.
+
+CORE VALUES
+- Production-Ready AI: Nexariza delivers AI solutions that are robust, scalable, and ready for real-world deployment, not just prototypes or demos.
+- Transparency: Clear communication, honest pricing, and open processes in everything they do.
+- ROI-Focused Outcomes: Every solution is designed to deliver measurable business value and return on investment.
+- Technical Excellence: Commitment to the highest standards of code quality, architecture, and best practices.
+
+COMPANY STATS
+- 100+ projects delivered
+- 98% client satisfaction rate
+- 15+ countries served
+- 50+ happy clients
+- 300% average ROI for AI implementations
+- 24/7 support infrastructure
+
+COMPANY HISTORY
+- 2024: Company founded by Ahmad Yasin in Lahore, Pakistan, with a vision to democratize production-ready AI for businesses worldwide, bypassing hype and focusing strictly on utility.
+- 2024: Delivered first AI models, including a mushroom disease classifier and a bone fracture detection system.
+- 2024: Expanded services to serve clients across 15+ countries with 24/7 support infrastructure.
+- 2024: Achieved 98% client satisfaction rate and 300% average ROI for AI implementations.
+
+FOUNDING STORY
+Ahmad Yasin founded Nexariza AI after recognizing a massive gap between academic AI research and practical, scalable solutions that deliver verifiable ROI from day one. The company's approach is built on deep understanding of both AI infrastructure and business architecture.
+
+LEADERSHIP TEAM
+- Ahmad Yasin - Founder & CEO. AI Strategist and Full-Stack Leader. Email: ahmad.yasin@nexariza.com
+  Quote: "We engineer AI platforms that are safe, scalable, and ready for the real world from the very first release."
+- Eman Sarfraz - COO. Oversees operations and strategic execution. Bridges cutting-edge AI technology with business, aligning technical and non-technical teams for operational excellence. Email: eman.sarfraz@nexariza.com
+- Usman Aamer - CTO. Leads the company's technological vision and innovation strategy, driving development of advanced AI solutions.
+- Abdul Rehman - AI/ML Developer. Designs and implements machine learning solutions. Email: abdul.rehman@nexariza.com
+- Ahmad Ibrahim - AI/ML Developer. Expertise spans data processing to engineering advanced machine learning algorithms. Email: ahmad.ibrahim@nexariza.com
+- Hassan Nadeem - AI/ML + App Developer. Specializes in building seamless, data-driven applications powered by advanced machine learning models. Email: hassan.nadeem@nexariza.com

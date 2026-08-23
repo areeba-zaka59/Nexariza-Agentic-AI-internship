@@ -1,0 +1,35 @@
+NEXARIZA AI - PORTFOLIO & CASE STUDIES
+
+Nexariza AI has completed 100+ projects across 15+ countries. Below are selected case studies demonstrating real-world impact.
+
+FINDIFY - SMART PRODUCT FINDER USING AI
+Challenge: Findify operates as an intelligent shopping and product discovery assistant. By leveraging multiple AI agents, it analyzes complex user queries, searches through product catalogs, and delivers highly relevant, personalized recommendations.
+Impact: Optimized workflow efficiency by 40%.
+Tech stack: Flutter, Kotlin, Python.
+
+WANDERNEST - TRAVEL GUIDE APPLICATION
+Challenge: Built a travel companion app allowing users to search and explore destinations worldwide, view detailed attraction information, calculate travel budgets with customizable parameters, browse destination photos, get travel tips and best times to visit, and convert currencies.
+Category: Web App.
+
+FOOD RECOMMENDATION SYSTEM
+Challenge: A Python-powered web app that helps users explore, filter, and discover dishes tailored to their dietary needs, cuisine preferences, allergen concerns, and taste preferences.
+Impact: Optimized workflow efficiency by 40%.
+Tech stack: OWL, Python, Protégé.
+
+PROSTATE CANCER EARLY DETECTION AI
+Challenge: Early-stage prostate cancer detection using AI and medical imaging.
+Category: Healthcare AI.
+Impact: Optimized workflow efficiency by 40%.
+Tech stack: Python, Scikit-learn, TensorFlow.
+
+CLIENT TESTIMONIALS (selected)
+- "Working with Nexariza AI was a game changer for us. Their custom machine-learning model helped us reduce fraud detection time by over 60%." — Sara Ahmed
+- "Nexariza designed a generative AI recommendation engine that increased our upsell conversion by nearly 30%. The integration was seamless and the support was top notch." — Michael Browne
+- "Nexariza's predictive analytics module enabled us to forecast campaign performance with 85% accuracy. Highly recommended." — Ayesha Khan
+- "Nexariza handled autonomous vehicle sensor fusion and delivered a robust module ahead of schedule. Their adaptability, domain knowledge, and communication were outstanding." — Omar Al-Saadi
+- "Their documentation and model explainability helped us pass a tough regulatory audit." — Isabella Rossi
+- "Nexariza's AI model for crop disease detection has already saved us thousands in losses." — Fatima Noor
+- "Nexariza delivered a compact edge AI model that runs in real-time with zero noticeable lag." — Carlos Silva
+- "We're a small team and Nexariza's tools felt like a big upgrade. Helped us save time and look more professional." — Juan Carlos Reyes
+
+Overall client satisfaction rate: 98%. Average client rating: 5.0 out of 5 based on published reviews.

@@ -30,8 +30,7 @@ Each week lives in its own folder with its own README, setup instructions, and d
 |:-:|---------|---------------|:------:|
 | 1 | [**ReAct Agent**](./week1-react-agent) | Web-search-powered reasoning agent with sourced answers | ✅ |
 | 2 | Daily Content Posting Agent | Auto-generates daily LinkedIn/IG/X content with branding | 🔜 |
-| 3 | RAG-Powered Support Bot | Answers customer questions from ingested company docs | 🔜 |
-| 4 | Multi-Agent Research System | Researcher → Analyst → Writer → Publisher pipeline | 🔜 |
+| 3 | [**Nexariza Support Bot**](./week3-rag-support-bot) | RAG chat agent grounded on real company content, with honest escalation | ✅ | 4 | Multi-Agent Research System | Researcher → Analyst → Writer → Publisher pipeline | 🔜 |
 | 5 | Lead Qualification Agent | Finds, scores, and drafts outreach to potential leads | 🔜 |
 | 6 | 🏆 Capstone — AI Assistant | All-in-one research, content, and outreach assistant | 🔜 |
 

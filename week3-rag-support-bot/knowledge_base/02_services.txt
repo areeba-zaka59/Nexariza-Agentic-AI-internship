@@ -1,0 +1,36 @@
+NEXARIZA AI - SERVICES
+
+Nexariza AI offers comprehensive engineering solutions spanning artificial intelligence, backend infrastructure, and interactive frontend experiences. Every solution is purpose-built and fine-tuned for the client's specific business data and objectives, not generic templates.
+
+1. AI AGENTS
+Autonomous AI agents that execute complex workflows and augment your workforce. These agents can handle multi-step tasks, make decisions, and integrate with existing business systems.
+
+2. MACHINE LEARNING
+Custom predictive models and advanced data analytics tailored to your industry. Includes classification, prediction, and pattern recognition systems built on your specific business data.
+
+3. COMPUTER VISION
+Image and video analysis systems for automated quality control and detection. Used for tasks like defect detection, medical imaging analysis, and visual inspection automation.
+
+4. WEB DEVELOPMENT
+High-performance React/Next.js web applications tailored for complex workflows. Built for speed, scalability, and integration with AI-powered backends.
+
+5. AUTOMATION SYSTEMS
+Robotic process automation (RPA) to eliminate manual, repetitive business tasks. Streamlines operations by automating rule-based workflows.
+
+6. DATA ANALYTICS
+Enterprise data pipelines and interactive dashboards for real-time business intelligence. Helps businesses make data-driven decisions with live insights.
+
+7. SAAS DEVELOPMENT
+End-to-end development of scalable, secure Software-as-a-Service platforms, from architecture to deployment.
+
+8. API INTEGRATIONS
+Seamlessly connect legacy systems with modern AI-powered APIs, enabling businesses to modernize without replacing their entire tech stack.
+
+WHY CLIENTS CHOOSE NEXARIZA AI
+- World-Class Expertise: The engineering team builds at the frontier of AI, delivering production-ready models that scale seamlessly.
+- Purpose-Built Models: No generic templates — every LLM and AI pipeline is fine-tuned for the client's specific business data and objectives.
+- Rapid Deployment: From concept to production in weeks, not months, using modern cloud infrastructure.
+- Enterprise Security: Bank-grade security protocols, SOC2 Type II certified architecture, GDPR compliant, end-to-end encryption, and complete data privacy for proprietary information.
+
+PRICING
+Nexariza AI does not publish fixed pricing packages. Pricing is customized per project based on scope and requirements. Prospective clients are encouraged to schedule a discovery call or request a custom quote via the contact page or by emailing contact@nexariza.com.
