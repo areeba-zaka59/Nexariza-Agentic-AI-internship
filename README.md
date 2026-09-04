@@ -31,7 +31,7 @@ Each week lives in its own folder with its own README, setup instructions, and d
 | 1 | [**ReAct Agent**](./week1-react-agent) | Web-search-powered reasoning agent with sourced answers | Done |
 | 2 | [**NEXA Content Engine**](./week2-daily-posting-agent) | Trending topic research -> branded LinkedIn/IG/X content, with a live research workspace UI | Done |
 | 3 | [**Nexariza Support Bot**](./week3-rag-support-bot) | RAG chat agent grounded on real company content, with honest escalation | Done |
-| 4 | Multi-Agent Research System | Researcher -> Analyst -> Writer -> Publisher pipeline | Coming soon |
+| 4 | [**The Nexariza Research Desk**](./week4-research-engine) | 4-agent investigative newsroom that researches, analyzes, writes, and publishes a report | Done |
 | 5 | Lead Qualification Agent | Finds, scores, and drafts outreach to potential leads | Coming soon |
 | 6 | Capstone - AI Assistant | All-in-one research, content, and outreach assistant | Coming soon |
 
