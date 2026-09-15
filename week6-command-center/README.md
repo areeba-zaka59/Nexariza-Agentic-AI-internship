@@ -1,6 +1,6 @@
 # Week 6 - Nexariza Command Center (Capstone)
 
-An all-in-one AI business command center that unifies six specialized tools Market Research, Content Generation, Email Drafting, Meeting Summary, Competitor Analysis, and Trend Monitoring — into a single premium workspace.
+An all-in-one AI business command center that unifies six specialized tools Market Research, Content Generation, Email Drafting, Meeting Summary, Competitor Analysis, and Trend Monitoring into a single premium workspace.
 
 Each tool lives in its own dedicated environment with its own color palette, typography, and layout, while staying inside one cohesive Nexariza design language.
 
@@ -69,8 +69,6 @@ textColor="#2B2E2B"
 5. Run the Command Center:
 
 streamlit run app.py
-
-## Screenshots
 
 ## Screenshots
 
