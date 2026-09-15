@@ -77,11 +77,12 @@ streamlit run app.py
 ![Nexeriza Command Center — landing page with six tool gates](./screenshots/demo1.png)
 ![Market Research — editorial journal view with cited sources](./screenshots/demo4.png)
 ![Content Generation — pink creative studio with social media previews](./screenshots/demo2.png)
+![Competitor Analysis — strategic war table with full comparison](./screenshots/demo6.png)
+![Trend Monitoring — real momentum, attention share, and growth charts](./screenshots/demo3.png)
+
 ![Email Drafting — red executive correspondence window](./screenshots/demo5.png)
 ![Meeting Summary — calendar layout with meeting input](./screenshots/demo7.png)
 ![Meeting Summary — extracted timeline and action items table](./screenshots/demo8.png)
-![Competitor Analysis — strategic war table with full comparison](./screenshots/demo6.png)
-![Trend Monitoring — real momentum, attention share, and growth charts](./screenshots/demo3.png)
 
 
 **Built by Areeba Zaka** · Nexariza AI · Agentic AI Internship — Week 6 Capstone
