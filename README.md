@@ -33,7 +33,7 @@ Each week lives in its own folder with its own README, setup instructions, and d
 | 3 | [**Nexariza Support Bot**](./week3-rag-support-bot) | RAG chat agent grounded on real company content, with honest escalation | Done |
 | 4 | [**The Nexariza Research Desk**](./week4-research-engine) | 4-agent investigative newsroom that researches, analyzes, writes, and publishes a report | Done |
 | 5 | [**Lead Intelligence Agent**](./week5-lead-intelligence-agent) | Discovers real companies, scores Hot/Warm/Cold, drafts personalized outreach | Done |
-| 6 | Capstone - AI Assistant | All-in-one research, content, and outreach assistant | Coming soon |
+| 6 | [**Nexeriza Command Center (Capstone)**](./week6-command-center) | Six AI tools in one workspace — research, content, email, meetings, competitors, trends | Done |
 
 ---
 
